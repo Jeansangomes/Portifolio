@@ -1,0 +1,8 @@
+@import'./global.css';
+@import './header.css';
+
+.jean {
+  font-size: 4rem;
+  margin: 0px;
+  padding: 0px;
+}
